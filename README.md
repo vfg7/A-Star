@@ -3,6 +3,7 @@ Busca e Otimização: Viaje mais rápido com A-Estrela
 O caso 
 
 Imagine este trecho do metrô de Paris
+
 ![image](https://user-images.githubusercontent.com/62081666/131940344-75f54f96-d428-4fcc-8eb4-6d31eb89931b.png)
 
 como achar qual o caminho mais rápido de uma dada estação até um dado destino, respeitando toda as constraints, como baldeações?
